@@ -12,6 +12,6 @@ forecastSummary:
   host: "forecast9.p.rapidapi.com"
 
 
-
+#Access url
 #  http://localhost:8080/weather/get-forecast-summary-by-location/Berlin
 #  http://localhost:8080/weather/get-forecast-hourly-by-location/Berlin
