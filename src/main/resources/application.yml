@@ -1,0 +1,17 @@
+server:
+  port: 8080
+
+forecastHourly:
+  url: "https://forecast9.p.rapidapi.com/rapidapi/forecast/Berlin/hourly/"
+
+forecastSummary:
+  url: "https://forecast9.p.rapidapi.com/rapidapi/forecast/Berlin/summary/"
+
+  key:  "910669c81dmsha98e6aebe2a0c10p1f2e6ejsn304b12906dcb"
+
+  host: "forecast9.p.rapidapi.com"
+
+
+
+#  http://localhost:8080/weather/get-forecast-summary-by-location/Berlin
+#  http://localhost:8080/weather/get-forecast-hourly-by-location/Berlin
