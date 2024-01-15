@@ -1,4 +1,4 @@
-# -Weather-API-from-Rapid-API
+# Weather-API-from-Rapid-API
 SpringBoot Java and integrate Weather API from Rapid API. On the basis of that integration, expose your RESTful APIs as follows with JSON response.
 
 ## Technologies Used
@@ -12,7 +12,7 @@ SpringBoot Java and integrate Weather API from Rapid API. On the basis of that i
 
 1.	Clone the repository:
 
-git clone https://github.com/Rishavzkc/-Weather-API-from-Rapid-API.git
+git clone https://github.com/Rishavzkc/Weather-API-from-Rapid-API.git
 
 2.	Run the project:
 
